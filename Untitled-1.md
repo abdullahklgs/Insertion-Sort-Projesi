@@ -33,3 +33,4 @@ sum = (n*(n-1))/2 -> O(n^2)
 - min=4 -> swap 5 and 4 -> [2, 3, 4, | 8, 7, 9, 5, 15, 6]
 - min=5 -> swap 8 and 5 -> [2, 3, 4, 5, | 7, 9, 8, 15, 6]
 ```
+[lorem ipsum] (www.patika.dev)
